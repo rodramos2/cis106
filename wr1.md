@@ -2,7 +2,7 @@
 Name: Rodrigo Ramos
 Assignment: Week Report 1
 Course: CIS106
-Semester: spring 23
+Semester: Spring 25
 ---
 
 # Week Report 1 Submission
