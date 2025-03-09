@@ -55,3 +55,8 @@ uname -a
 echo "Total free memory"
 free -h
 ```
+Commands to navigate the filesystem
+command:Description
+ls:list files and directories
+pwd:prints current directory
+cd:change current directory
