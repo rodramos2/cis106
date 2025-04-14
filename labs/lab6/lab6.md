@@ -9,7 +9,7 @@
 ## Question 3
 ![Question 3.1](question3.1.png)
 ![Question 3.2](question3.2.png)
-![Quesiion 3.3](question3.3.png)
+![Question 3.3](question3.3.png)
 ![Question 3.4](question3.4.png)
 
 ## Question 4 (Challenge Question)
